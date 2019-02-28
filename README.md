@@ -36,3 +36,7 @@ You need a modern GPU with CUDA support for best performance
 
 Reusing existing models will train much faster than starting from nothing.  
 If there is not enough training data, start with someone who looks similar, then switch the data.
+
+
+
+![](chenguanxi_1.gif)
