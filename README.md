@@ -40,3 +40,7 @@ If there is not enough training data, start with someone who looks similar, then
 
 
 ![](chenguanxi_1.gif)
+
+Youtube demo:
+
+https://www.youtube.com/watch?v=krfdHI08rI0&feature=youtu.be
