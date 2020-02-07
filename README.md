@@ -44,3 +44,7 @@ If there is not enough training data, start with someone who looks similar, then
 Youtube demo:
 
 https://www.youtube.com/watch?v=krfdHI08rI0&feature=youtu.be
+
+详细介绍请参见我的细节文章:
+
+[用AI技术进行换脸（洪山陈冠希的诞生）](https://mp.weixin.qq.com/s?__biz=MzI4MTAyMzQ2OA==&mid=2650679493&idx=1&sn=8b34239595dd02c75479fd621bfce5f3&chksm=f3a50e46c4d287502016b1022921507991838412ad69c97545afb76e1a5e55258e1690ac4cc0#rd)
